@@ -1,0 +1,12 @@
+C:\Users\MNYIKKA\Documents\Visual Studio 2008\Projects\2020\August\06\RenameFileScript\RenameFileScript\RenameFileScript\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MNYIKKA\Documents\Visual Studio 2008\Projects\2020\August\06\RenameFileScript\RenameFileScript\RenameFileScript\obj\Debug\RenameFileScript.Form1.resources
+C:\Users\MNYIKKA\Documents\Visual Studio 2008\Projects\2020\August\06\RenameFileScript\RenameFileScript\RenameFileScript\obj\Debug\RenameFileScript.Properties.Resources.resources
+C:\Users\MNYIKKA\Documents\Visual Studio 2008\Projects\2020\August\06\RenameFileScript\RenameFileScript\RenameFileScript\obj\Debug\RenameFileScript.csproj.GenerateResource.Cache
+C:\Users\MNYIKKA\Documents\Visual Studio 2008\Projects\2020\August\06\RenameFileScript\RenameFileScript\RenameFileScript\bin\Debug\RenameFileScript.exe
+C:\Users\MNYIKKA\Documents\Visual Studio 2008\Projects\2020\August\06\RenameFileScript\RenameFileScript\RenameFileScript\bin\Debug\RenameFileScript.pdb
+C:\Users\MNYIKKA\Documents\Visual Studio 2008\Projects\2020\August\06\RenameFileScript\RenameFileScript\RenameFileScript\obj\Debug\RenameFileScript.exe
+C:\Users\MNYIKKA\Documents\Visual Studio 2008\Projects\2020\August\06\RenameFileScript\RenameFileScript\RenameFileScript\obj\Debug\RenameFileScript.pdb
+C:\Users\MNYIKKA\Documents\Visual Studio 2008\Projects\2020\August\06\RenameFileScript\RenameFileScript\RenameFileScript\bin\Debug\EPPlus.dll
+C:\Users\MNYIKKA\Documents\Visual Studio 2008\Projects\2020\August\06\RenameFileScript\RenameFileScript\RenameFileScript\bin\Debug\Debenu\DebenuPDFLibraryDLL1711.dll
+C:\Users\MNYIKKA\Documents\Visual Studio 2008\Projects\2020\12 December\MySQLDumper\RenameFileScript\obj\Debug\RenameFileScript.exe
+C:\Users\MNYIKKA\Documents\Visual Studio 2008\Projects\2020\12 December\MySQLDumper\RenameFileScript\obj\Debug\RenameFileScript.pdb
